@@ -4,6 +4,8 @@ import io
 
 import time
 
+
+
 st.set_page_config(page_title="Futuristic Image Filter App", layout="wide")
 st.markdown("""
     <style>
